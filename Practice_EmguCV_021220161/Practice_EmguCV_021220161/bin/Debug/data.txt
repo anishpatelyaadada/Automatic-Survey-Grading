@@ -1,0 +1,1 @@
+(Hmin, Smin, Vmin) = 0 99 35 (Hmax, Smax, Vmax) = 78 43 51
